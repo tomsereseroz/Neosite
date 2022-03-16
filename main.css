@@ -3,6 +3,17 @@
 	padding: 0;
 }
 
+#emptyBox {
+	width: 100%;
+	height: 120px;
+}
+
+.categories li a {
+	text-decoration: none;
+	outline: 0;
+	color: white;
+}
+
 body{
 	background:#0f8e4d;
 	font-family:arial;
@@ -62,6 +73,6 @@ ul{
     color:black;
 }
 
-.categories li:hover {
+.categories li a:hover {
 	color:black;
 }
