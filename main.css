@@ -37,6 +37,12 @@ ul{
 	margin: 0px 20px;
 	
 }
+
+@media (max-width: 900px){
+    ul{
+        width: 100%;
+    }
+}
 .categories li{
 	text-decoration: none;
 	background-color: rgba(0,0,0,0);
@@ -48,11 +54,6 @@ ul{
 	border-left:ridge white;
 }
 
-@media (max-width: 900px){
-    ul{
-        width: 100%;
-    }
-}
 .categories li:first-child{
     border-left:none;
 }
