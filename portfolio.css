@@ -1,0 +1,14 @@
+#portfolio a{
+    color: black;
+}
+
+.content {
+    display: flex;
+}
+
+.content div{
+    background-color: aqua;
+    width: 500px;
+    height: 500px;
+    margin: 0 50px;
+}

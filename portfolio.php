@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
 	<?php include('header.html'); ?>
+	<link href="portfolio.css" rel="stylesheet" type="text/css" />
 <body>
 	<?php include('navbar.html'); ?>
-	<style>
-		#portfolio a{
-			color: black;
-		}
-	</style>
 <main>
-    <p>Hello World!</p>
+	<div class='content'>
+		<div>one</div>
+		<div>two</div>
+	</div>
 </main></body></html>
+
+3d models
+code projects
