@@ -1,0 +1,13 @@
+#about a{
+    color: black;
+}
+
+h2{
+    margin: 0 30px;
+}
+
+p{
+    margin: 0 30px 15px 30px;
+    font-size: 1.2em;
+    font-family: arial;
+}
