@@ -12,6 +12,7 @@
 Hello! My name is Thomas J. Sereseroz. My family calls me TJ though, since my father and grandfather are also named Thomas.
 I'm a 26 year old Michigan native. My parents are children of immigrants, my mothers side coming from Bolivia, and my father's from Mexico.
 I've always had a fascination with robots and space. When my mom helped me make an email account at the age of 10, I asked for it to be named robo_tj.
+If I could choose a new first name, it would be James, like James kirk, James Hawkins, and James Isaac Neutron.
 </p>
 <h2>Education</h2>
 <p>
@@ -58,12 +59,18 @@ I started learning Javascript, HTML, and CSS in 2020 and made a video game that 
 Programming has always been easy for me. Just like math, it makes sense in that the same equations give the same result every time. 
 And nearly all problems can be solved with a search on stack overflow.
 </p>
+<h2>2021, exploration</h2>
 <p>
 2021 was a gap-year for me. My first break from working and stress in 9 years. I spent a lot of time traveling, visiting family and friends.
+I also spent time thinking about what I really want my lifestyle to be like. How I want to spend my time, and what I'm willing to sacrifice for.
 I feel like my gap year helped me unwind from all the pressure built up over the past decade, but who knows, maybe it'll come back If I reapply the pressure.
-2022 is the year of new beginnings for me. I'd like to grow my presense as a streamer and my knowledge/clientelle as a programmer. 
-Ironically, I don't really have any near-future career plans to use my electrical engineering degree. Unless a good opportunity comes my way! 
 </p>
-
+<h2>2022, rebirth</h2>
+<p>
+2022 is the year of new beginnings for me. I'd like to grow my presense as a streamer and my knowledge/clientelle as a programmer. 
+Ironically, I don't really have any near-future career plans to use my electrical engineering degree.
+I'm not looking for Electrical engineering jobs at the moment, but if a good opportunity arises I won't hesitate to take it!
+</p>
+<div class="space"></div>
 </body>
 </html>
