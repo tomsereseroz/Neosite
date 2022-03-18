@@ -65,7 +65,7 @@ Programming has always been easy for me. Just like math, it makes sense in that 
 I also spent time thinking about what I really want my lifestyle to be like. How I want to spend my time, and what I'm willing to sacrifice for.
 I feel like a gap year helped me unwind from all the pressure built up over the past decade, but who knows, maybe it'll come back If I reapply the pressure.
 </p>
-<h2>2022, genesis</h2>
+<h2>2022, Now</h2>
 <p>
 2022 is my year of new beginnings. I'd like to grow my presense as a streamer and my knowledge/clientelle as a programmer. 
 Ironically, I don't really have any near-future career plans to use my electrical engineering degree.

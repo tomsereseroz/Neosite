@@ -4,11 +4,22 @@
 
 .content {
     display: flex;
+    flex-wrap: wrap;
 }
 
-.content div{
+.content > div{
     background-color: grey;
     width: 500px;
     height: 500px;
-    margin: 0 50px;
+    margin: 50px 50px;
+    border-radius: 10px;
+}
+
+.codebox h2{
+    text-align: center;
+    margin-left: 25%;
+    width: 50%;
+    background-color: rgba(200,50,50,0.8);
+    box-shadow: 0 0 30px 0px #000;
+    clip-path: inset(0px -30px 0px -30px);
 }

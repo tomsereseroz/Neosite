@@ -6,7 +6,13 @@
 	<?php include('navbar.html'); ?>
 <main>
 	<div class='content'>
-		<div>one</div>
+		<div class='codebox'>
+			<h2>CODE</h2>
+			<div><a href="../gameProject/game.html">
+				Untitled shooter game
+			</a></div>
+			<div>test</div>
+		</div>
 		<div>two</div>
 	</div>
 </main></body></html>
