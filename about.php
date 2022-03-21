@@ -5,11 +5,9 @@
 <body>
 	<?php include('navbar.html'); ?>
 <main>
-</main>
-
 <h2>Introduction</h2>
 <p>
-Hello! My name is Thomas J. Sereseroz. Although my family calls me TJ, since my father and grandfather are also named Thomas.
+Hello! My name is Thomas J. Sereseroz. My family calls me TJ, since my father and grandfather are also named Thomas.
 I'm a 26 year old Michigan native. My parents are children of immigrants, my mothers side coming from Bolivia, and my father's from Mexico.
 I've always had a fascination with robots and space. When my mom helped me make an email account at the age of 10, I asked for it to be named robo_tj.
 If I could choose a new first name, it would be James, like James kirk, James Hawkins, and James Isaac Neutron. My steam profile/Twitch name is Mint Robot.
@@ -45,9 +43,9 @@ Video games had brought me so much excitement, fascination, and emotions that I 
 </p>
 <h2>Work</h2>
 <p>
-I worked part time as a lifeguard and swim instructor in my last two years at Grand Ledge.
+I worked part time as a lifeguard and swim instructor in my last two years at Grand Ledge (2013-2014).
 While enrolled at MSU I worked with the College of Engineering Recruitment and outreach center as a student ambassador, giving tours of the campus and helping set up events.
-As a freshman and sophomore, I worked at the Facility for Rare Isotope Beams (FRIB) as a technician, verifying P&ID diagrams and the resonant frequency of cavities.
+As a freshman and sophomore (at MSU), I worked at the Facility for Rare Isotope Beams (FRIB) as a technician, verifying P&ID diagrams and the resonant frequency of cavities.
 I also augmented some Java code that a beam physicist used to take Q-value measurements of the cavities in production.
 I left for Fraunhofer CCD my junior year and did a TON of CAD work converting real parts for a HPHT system into 3d-object files. 
 Post-graduation I joined the Nondestructive Evaluation lab at MSU, but dropped out after two semesters as I didn't want to Lock-in NDE as my carreer.
@@ -56,7 +54,7 @@ I left the lab in february 2020 to join IBM as a verification engineer working i
 <h2>2020, the "New normal"</h2>
 <p>
 As I'm sure we all were impacted by the events of 2020, my pace of life shifted drastically as well. I used the pandemic as an excuse to finally take a break from working for companies, and started working for myself. 
-I started learning Javascript, HTML, and CSS, and took a month or so to make a video game that can run in the browser.
+I started learning Javascript, HTML, and CSS, and took a month or so to make a <a href="../gameProject/game.html">video game</a> that can run in the browser.
 Programming has always been easy for me. Just like math, it makes sense in that the same equations give the same result every time. 
 </p>
 <h2>2021, exploration</h2>
@@ -71,6 +69,5 @@ I feel like a gap year helped me unwind from all the pressure built up over the 
 Ironically, I don't really have any near-future career plans to use my electrical engineering degree.
 I'm not looking for Electrical engineering jobs at the moment, but if a good opportunity arises I won't hesitate to take it!
 </p>
-<div class="space"></div>
-</body>
+</main></body>
 </html>

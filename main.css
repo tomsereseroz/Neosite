@@ -8,9 +8,11 @@
 	height: 120px;
 }
 
-.categories li a {
+.navbar a{
 	text-decoration: none;
-	outline: 0;
+}
+
+a {
 	color: white;
 }
 
@@ -33,7 +35,7 @@ body{
 	z-index: 1;
 }
 
-h1{
+.navbar h1{
     padding:10px 0 0px 10px;
 	width: 400px;
     text-shadow: 1px 6px 15px rgba(0,0,0,0.7);
@@ -41,12 +43,14 @@ h1{
 
 ul{
 	list-style-type: none;
+}
+
+.navbar ul{
 	width:50%;
     transition: 300ms;
 	display:inline-flex;
 	padding:5px 5px 5px 20px;
 	margin: 0px 20px;
-	
 }
 
 @media (max-width: 900px){
@@ -73,6 +77,6 @@ ul{
     color:black;
 }
 
-.categories li a:hover {
+.navbar a:hover {
 	color:black;
 }

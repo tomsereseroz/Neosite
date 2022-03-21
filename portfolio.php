@@ -8,14 +8,17 @@
 	<div class='content'>
 		<div class='codebox'>
 			<h2>CODE</h2>
-			<div><a href="../gameProject/game.html">
+			<h4><ul>
+				<li><a href="../gameProject/game.html">
 				Untitled shooter game
-			</a></div>
-			<div>test</div>
+				</a></li>
+				<li><a href="#">
+					something
+				</li></a>
+			</ul></h4>
 		</div>
-		<div>two</div>
+		<div>
+			<h2>3D Modeling</h2>
+		</div>
 	</div>
 </main></body></html>
-
-3d models
-code projects
