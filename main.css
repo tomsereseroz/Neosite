@@ -10,9 +10,10 @@
 
 .navbar a{
 	text-decoration: none;
+	transition: color 1s;
 }
 
-a {
+ul a {
 	color: white;
 }
 
@@ -39,6 +40,11 @@ body{
     padding:10px 0 0px 10px;
 	width: 400px;
     text-shadow: 1px 6px 15px rgba(0,0,0,0.7);
+}
+
+.navbar h1 a{
+	color:black;
+	transition: color 1s;
 }
 
 ul{
@@ -79,4 +85,8 @@ ul{
 
 .navbar a:hover {
 	color:black;
+}
+
+.navbar h1 a:hover {
+	color:pink;
 }
